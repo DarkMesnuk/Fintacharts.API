@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fintacharts.API.props" />
+</Project>

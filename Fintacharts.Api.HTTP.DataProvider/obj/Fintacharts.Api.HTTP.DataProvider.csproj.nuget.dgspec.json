@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.Api.HTTP.DataProvider\\Fintacharts.Api.HTTP.DataProvider.csproj": {}
+  },
+  "projects": {
+    "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.API.Domain\\Fintacharts.API.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.API.Domain\\Fintacharts.API.Domain.csproj",
+        "projectName": "Fintacharts.API.Domain",
+        "projectPath": "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.API.Domain\\Fintacharts.API.Domain.csproj",
+        "packagesPath": "C:\\Users\\darkm\\.nuget\\packages\\",
+        "outputPath": "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.API.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\darkm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.Api.HTTP.DataProvider\\Fintacharts.Api.HTTP.DataProvider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.Api.HTTP.DataProvider\\Fintacharts.Api.HTTP.DataProvider.csproj",
+        "projectName": "Fintacharts.Api.HTTP.DataProvider",
+        "projectPath": "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.Api.HTTP.DataProvider\\Fintacharts.Api.HTTP.DataProvider.csproj",
+        "packagesPath": "C:\\Users\\darkm\\.nuget\\packages\\",
+        "outputPath": "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.Api.HTTP.DataProvider\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\darkm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.API.Domain\\Fintacharts.API.Domain.csproj": {
+                "projectPath": "D:\\MyCods\\Old\\Important\\Fintacharts.API\\Fintacharts.API.Domain\\Fintacharts.API.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

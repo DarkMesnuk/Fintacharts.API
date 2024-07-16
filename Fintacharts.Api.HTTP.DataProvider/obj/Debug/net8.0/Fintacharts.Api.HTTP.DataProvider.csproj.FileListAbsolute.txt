@@ -1,0 +1,15 @@
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.csproj.AssemblyReference.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.AssemblyInfoInputs.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.AssemblyInfo.cs
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.csproj.CoreCompileInputs.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\bin\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.deps.json
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\bin\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\bin\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.pdb
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\bin\Debug\net8.0\Fintacharts.API.Domain.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\bin\Debug\net8.0\Fintacharts.API.Domain.pdb
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\Fintacha.6250DD68.Up2Date
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\refint\Fintacharts.Api.HTTP.DataProvider.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\Fintacharts.Api.HTTP.DataProvider.pdb
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.HTTP.DataProvider\obj\Debug\net8.0\ref\Fintacharts.Api.HTTP.DataProvider.dll

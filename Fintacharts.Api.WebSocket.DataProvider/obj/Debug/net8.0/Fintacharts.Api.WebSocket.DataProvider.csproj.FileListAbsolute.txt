@@ -1,0 +1,15 @@
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\bin\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.deps.json
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\bin\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\bin\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.pdb
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\bin\Debug\net8.0\Fintacharts.API.Domain.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\bin\Debug\net8.0\Fintacharts.API.Domain.pdb
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.csproj.AssemblyReference.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.AssemblyInfoInputs.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.AssemblyInfo.cs
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.csproj.CoreCompileInputs.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\Fintacha.E7154ACB.Up2Date
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\refint\Fintacharts.Api.WebSocket.DataProvider.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\Fintacharts.Api.WebSocket.DataProvider.pdb
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.Api.WebSocket.DataProvider\obj\Debug\net8.0\ref\Fintacharts.Api.WebSocket.DataProvider.dll

@@ -1,0 +1,2 @@
+To correct work web application you need to change accessToken (Api, WebSocket) in appsettings.json
+After run application and go to web to open swagger and get all information which you need.

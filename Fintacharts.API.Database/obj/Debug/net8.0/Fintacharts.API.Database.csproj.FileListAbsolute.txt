@@ -1,0 +1,17 @@
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\bin\Debug\net8.0\Fintacharts.API.Database.deps.json
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\bin\Debug\net8.0\Fintacharts.API.Database.runtimeconfig.json
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\bin\Debug\net8.0\Fintacharts.API.Database.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\bin\Debug\net8.0\Fintacharts.API.Database.pdb
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\bin\Debug\net8.0\Fintacharts.API.Domain.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\bin\Debug\net8.0\Fintacharts.API.Domain.pdb
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\Fintacharts.API.Database.csproj.AssemblyReference.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\Fintacharts.API.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\Fintacharts.API.Database.AssemblyInfoInputs.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\Fintacharts.API.Database.AssemblyInfo.cs
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\Fintacharts.API.Database.csproj.CoreCompileInputs.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\Fintacha.74069488.Up2Date
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\Fintacharts.API.Database.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\refint\Fintacharts.API.Database.dll
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\Fintacharts.API.Database.pdb
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\Fintacharts.API.Database.genruntimeconfig.cache
+D:\MyCods\Old\Important\Fintacharts.API\Fintacharts.API.Database\obj\Debug\net8.0\ref\Fintacharts.API.Database.dll
